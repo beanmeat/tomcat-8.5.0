@@ -216,3 +216,5 @@ protected synchronized void configureStart() {
 ```
 
 重启服务：访问搞定
+
+![image-20251127191527376](images/image-20251127191527376.png)
